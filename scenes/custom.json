@@ -1,0 +1,12 @@
+{
+	"objects":
+	[
+		{
+			"type": "obj",
+			"name": "custom",
+			"filename": "custom.obj",
+			"texture": "tex_nor_maps/custom.JPG",
+			"normalMap": "tex_nor_maps/custom_norm.JPG"
+		}
+	]
+}
